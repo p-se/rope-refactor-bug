@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "other_file.py": true
+    }
+}
